@@ -1,0 +1,8 @@
+.page-1 {
+  list-style: none;
+  background: rgb(207, 206, 206);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 910px;
+}

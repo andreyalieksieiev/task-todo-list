@@ -1,0 +1,31 @@
+.sideBar{
+  position: fixed;
+  margin-top: 100px;
+  width: 250px;
+  height: 700px;
+  text-decoration: none;
+  z-index: 1;
+}
+
+.sideBar button {
+  position: relative;
+  right: 0;
+}
+
+.side {
+  display: block;
+  margin-top: 30px;
+  padding-top: 30px;
+  font-size: 30px;
+}
+
+.side a {
+  text-decoration: none;
+  color: rgb(43, 43, 44);
+}
+
+.side li {
+  text-decoration: none;
+  margin-top: 30px;
+  list-style-type: none;
+}
